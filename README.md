@@ -1,4 +1,4 @@
-<h1>Seminar_On_Breast_Cancer_Prediction</h1>
+<h1>Project_On_Breast_Cancer_Prediction</h1>
 
 <h2>Problem Statement</h2>
  
